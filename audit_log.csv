@@ -1,1 +1,13 @@
-timestamp,input_text,predicted_type,predicted_root_cause,similar_cases,confidence,llm_suggestion,note
+timestamp,input_description,predicted_type,predicted_root_cause,similar_cases_count,similar_ids,genai_suggestion,status
+2026-01-20T09:56:48.742796,"
+During in-process testing, assay results for Batch B25-002 showed out of specification (OOS) on initial test. 
+Investigation found mixing time exceeded validated range due to operator misreading the ...",Human Error,Human Error,3,"DEV-2025-0001, DEV-2025-0134, DEV-2025-0287","Suggested root cause categories:
+*   Human Error (90",failed
+2026-01-20T09:56:48.742796,"
+During in-process testing, assay results for Batch B25-002 showed out of specification (OOS) on initial test. 
+Investigation found mixing time exceeded validated range due to operator misreading the ...",Human Error,Human Error,3,"DEV-2025-0001, DEV-2025-0134, DEV-2025-0287","Suggested root cause categories:
+*   Human Error (90",failed
+2026-01-20T14:49:56.669996,"
+During routine in-process testing, assay results for Batch B25-001 were found to be out of specification (OOS) on initial analysis. 
+Investigation identified that the mixing step exceeded the validat...",Human Error,Human Error,3,"DEV-2025-0001, DEV-2025-0187, DEV-2025-0287","Suggested root cause categories:
+*   Human Error (70",failed
